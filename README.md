@@ -17,11 +17,15 @@ ETF每日评级系统
 
 🛠 快速开始
 安装依赖
+
 bash
 pip install -r requirements.txt
+
 运行系统
 bash
 python etf_daily_rating_complete.py
+
+
 📊 输出内容
 综合排名：前50名ETF详细评分
 
