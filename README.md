@@ -19,10 +19,13 @@ ETF每日评级系统
 安装依赖
 
 bash
+
 pip install -r requirements.txt
 
 运行系统
+
 bash
+
 python etf_daily_rating_complete.py
 
 
